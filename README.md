@@ -5,9 +5,6 @@ Run ASR and speaker diarization based on whisper and pyannote.audio.
 ## Installation
 1. Install whisper.
 2. Install pyannote.audio.
-3. Downgrade setuptools to 59.5.0
-4. Downgrade speechbrain to 0.5.16
-
 
 ## Command-line usage
 
